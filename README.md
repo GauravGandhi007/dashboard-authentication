@@ -66,13 +66,9 @@ Test the candidate's ability to build a complex authentication system, use exter
 - Deploy the project on **Vercel** or **Netlify** and provide a **live link**.
 - Add a **Forgot Password** functionality using a modal.
 
-#### **Deliverables:**
-1. A **GitHub repository** with the full project.
-2. A well-documented **README.md**.
-3. A **short demo video** showing the authentication flow, API integration, and dashboard functionality (optional but recommended).
 
-#### **Deadline:**
-2 Days
+
+
 
 
 #### **End Points**
@@ -88,5 +84,5 @@ Test the candidate's ability to build a complex authentication system, use exter
 
 - quotes - https://api.freeapi.app/api/v1/public/quotes
 
-You have full freedome to use more api as well
+
 
