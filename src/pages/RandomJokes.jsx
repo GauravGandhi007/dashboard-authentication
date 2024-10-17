@@ -33,10 +33,10 @@ export const RandomJokes = () => {
           </h1>
         </div>
       </div>
-      <div className="grid grid-cols-4 gap-2">
+      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-2">
         {joke.map((val) => (
           <div key={val.id}>
-            <article className=" w-72 bg-gray-700 shadow p-4 space-y-2 rounded-md hover:-translate-y-2 duration-300" style={{minHeight:"200px"}}>
+            <article className=" w-72 bg-gray-700 md:hover:bg-gray-900 shadow-md shadow-slate-200 p-4 space-y-2 rounded-md hover:-translate-y-2 duration-300" style={{minHeight:"200px"}}>
               <svg
                 viewBox="0 0 24 24"
                 fill="none"
